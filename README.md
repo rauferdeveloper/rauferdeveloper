@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 [![Oracle](img/icons_techs/oracle.svg)](#-my-tech-background)&nbsp;
 ### Tools
 [![Docker](img/icons_techs/docker.svg)](#-my-tech-background)&nbsp;
-<!-- [![Azure](img/icons_techs/azure.svg)](#-my-tech-background)&nbsp; -->
 [![Git](img/icons_techs/git.svg)](#-my-tech-background)&nbsp;
 [![GitHub](img/icons_techs/github.svg)](#-my-tech-background)&nbsp;
 [![Vscode](img/icons_techs/vscode.svg)](#-my-tech-background)&nbsp;
@@ -63,6 +62,7 @@ Here are some ideas to get you started:
 <!-- db-->
 <!-- [![SQLServer](img/icons_techs/sqlserver.svg)](#-my-tech-background)&nbsp; -->
 <!-- tools-->
+<!-- [![Azure](img/icons_techs/azure.svg)](#-my-tech-background)&nbsp; -->
 <!-- [![Maven](img/icons_techs/maven.svg)](#-my-tech-background)&nbsp; -->
 <!--[![Eclipse](img/icons_techs/eclipse.svg)](#-my-tech-background)-->
 <!--[![Linux](img/icons_techs/linux.svg)](#-my-tech-background)-->
