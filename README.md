@@ -1,5 +1,6 @@
 ### Hi there, I'm [Raul](https://klen.github.com)👋
-
+- 🌱 I’m currently working in [Python](https://www.python.org/)
+- 💬 Ask me about anything [here](https://github.com/rauferdeveloper/rauferdeveloper/issues)
 <!--
 **rauferdeveloper/rauferdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
