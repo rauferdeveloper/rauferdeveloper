@@ -1,14 +1,13 @@
 ### Hi there, I'm [Raul](https://github.com/rauferdeveloper)👋
-- 🌱 I’m currently working in <a href="https://google.com" target="_blank">Python</a> and [Odoo](https://www.odoo.com/?target=_blank)
-- 💬 Ask me about anything [here](https://github.com/rauferdeveloper/rauferdeveloper/issues) and <a href="http://example.com/" target="_blank">Hello, world!</a>
-
+- 🌱 I’m currently working in [Python](https://www.python.org/) and [Odoo](https://www.odoo.com/)
+- 💬 Ask me about anything [here](https://github.com/rauferdeveloper/rauferdeveloper/issues)
 - 🎶 Music
 - 🏁 **2021 goals:**
   - [x] Contributing to open source projects
-  - [x] [My first Odoo talk](https://www.youtube.com/watch?v=XT1goLEioBs&feature=emb_logo&ab_channel=OdooSpain-Asociaci%C3%B3nEspa%C3%B1oladeOdoo&target=_blank)
+  - [x] [My first Odoo talk](https://www.youtube.com/watch?v=XT1goLEioBs&feature=emb_logo&ab_channel=OdooSpain-Asociaci%C3%B3nEspa%C3%B1oladeOdoo)
 - 🏁 **2022 goals:**
   - [ ] Contributing to open source projects
-  - [ ] [Odoo Certification v15](https://www.odoo.com/es_ES/slides/odoo-certification-v15-108?target=_blank)
+  - [ ] [Odoo Certification v15](https://www.odoo.com/es_ES/slides/odoo-certification-v15-108)
 
 <!--
 **rauferdeveloper/rauferdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
