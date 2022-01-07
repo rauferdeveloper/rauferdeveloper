@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 [![Java](img/icons_techs/java.svg)](#-my-tech-background)&nbsp;
 [![Python](img/icons_techs/python.svg)](#-my-tech-background)&nbsp;
 ### Frameworks
-<!-- [![Spring](img/icons_techs/spring.svg)](#-my-tech-background)&nbsp; -->
 [![Django](img/icons_techs/django.svg)](#-my-tech-background)&nbsp;
 [![Flask](img/icons_techs/flask.svg)](#-my-tech-background)&nbsp;
 [![Bootstrap](img/icons_techs/bootstrap.svg)](#-my-tech-background)&nbsp;
@@ -45,7 +44,6 @@ Here are some ideas to get you started:
 [![PostgreSQL](img/icons_techs/postgresql.svg)](#-my-tech-background)&nbsp;
 [![SQLite](img/icons_techs/sqlite.svg)](#-my-tech-background)&nbsp;
 [![MySQL](img/icons_techs/mysql.svg)](#-my-tech-background)&nbsp;
-<!-- [![SQLServer](img/icons_techs/sqlserver.svg)](#-my-tech-background)&nbsp; -->
 [![Oracle](img/icons_techs/oracle.svg)](#-my-tech-background)&nbsp;
 ### Tools
 [![Docker](img/icons_techs/docker.svg)](#-my-tech-background)&nbsp;
@@ -53,10 +51,6 @@ Here are some ideas to get you started:
 [![Git](img/icons_techs/git.svg)](#-my-tech-background)&nbsp;
 [![GitHub](img/icons_techs/github.svg)](#-my-tech-background)&nbsp;
 [![Vscode](img/icons_techs/vscode.svg)](#-my-tech-background)&nbsp;
-<!-- [![Maven](img/icons_techs/maven.svg)](#-my-tech-background)&nbsp; -->
-<!--[![Eclipse](img/icons_techs/eclipse.svg)](#-my-tech-background)-->
-<!--[![Linux](img/icons_techs/linux.svg)](#-my-tech-background)-->
-<!--[![Bash](img/icons_techs/bash.svg)](#-my-tech-background)-->
 ### SO
 [![Linux](img/icons_techs/linux.gif)](#-my-tech-background)&nbsp;
 
@@ -64,3 +58,12 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/rauferdeveloper/count.svg" />
 </p>
+<!-- Frameworks-->
+<!-- [![Spring](img/icons_techs/spring.svg)](#-my-tech-background)&nbsp; -->
+<!-- db-->
+<!-- [![SQLServer](img/icons_techs/sqlserver.svg)](#-my-tech-background)&nbsp; -->
+<!-- tools-->
+<!-- [![Maven](img/icons_techs/maven.svg)](#-my-tech-background)&nbsp; -->
+<!--[![Eclipse](img/icons_techs/eclipse.svg)](#-my-tech-background)-->
+<!--[![Linux](img/icons_techs/linux.svg)](#-my-tech-background)-->
+<!--[![Bash](img/icons_techs/bash.svg)](#-my-tech-background)-->
