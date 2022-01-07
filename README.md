@@ -1,6 +1,7 @@
 ### Hi there, I'm [Raul](https://github.com/rauferdeveloper)👋
-- 🌱 I’m currently working in %md <a href="https://google.com" target="_blank">Python</a> and [Odoo](https://www.odoo.com/?target=_blank)
-- 💬 Ask me about anything [here](https://github.com/rauferdeveloper/rauferdeveloper/issues)
+- 🌱 I’m currently working in <a href="https://google.com" target="_blank">Python</a> and [Odoo](https://www.odoo.com/?target=_blank)
+- 💬 Ask me about anything [here](https://github.com/rauferdeveloper/rauferdeveloper/issues) and <a href="http://example.com/" target="_blank">Hello, world!</a>
+
 - 🎶 Music
 - 🏁 **2021 goals:**
   - [x] Contributing to open source projects
