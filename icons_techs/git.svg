@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15mm"
+   height="15mm"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg1024"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="git.svg">
+  <defs
+     id="defs1018" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-500.6749"
+     inkscape:cy="373.61079"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1298"
+     inkscape:window-height="1040"
+     inkscape:window-x="52"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1021">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-238.30356,-49.315476)">
+    <g
+       id="g1240"
+       transform="matrix(0.48381999,0,0,0.48381999,161.64157,37.806856)">
+      <rect
+         style="fill:#f05032;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         id="rect965-8-3-8-2-9-6-5-9-8"
+         width="31.003265"
+         height="31.003265"
+         x="158.45148"
+         y="23.786987"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="170.77466"
+         y="50.231182"
+         id="text874-7-4-7-1-5-9-3-0-8-2"><tspan
+           sodipodi:role="line"
+           id="tspan872-5-8-8-1-9-3-1-2-0-5"
+           x="170.77466"
+           y="50.231182"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke-width:0.264583">Git</tspan></text>
+      <path
+         d="m 181.20764,34.841504 -6.46442,-6.682815 c -0.3726,-0.384603 -0.98615,-0.394822 -1.37262,-0.02286 l -1.38469,1.341783 1.70262,1.760309 c 0.40689,-0.128131 0.86583,-0.02952 1.18044,0.296405 0.31832,0.32847 0.39964,0.79607 0.25491,1.196529 l 1.63968,1.696505 c 0.40697,-0.133156 0.87095,-0.03449 1.18741,0.292756 0.44479,0.459222 0.43263,1.189449 -0.0272,1.633599 -0.45856,0.443552 -1.18754,0.431407 -1.63108,-0.02716 -0.33248,-0.345022 -0.40886,-0.845795 -0.23258,-1.2564 l -1.53559,-1.57931 -0.0682,4.093409 c 0.10945,0.05576 0.21244,0.130933 0.3025,0.223418 0.43978,0.459768 0.42764,1.188735 -0.0272,1.631086 -0.45858,0.444802 -1.19258,0.432574 -1.63672,-0.02727 -0.44356,-0.458569 -0.43143,-1.186285 0.0272,-1.629836 0.11603,-0.11098 0.24608,-0.194185 0.38379,-0.248371 l 0.0688,-4.133561 c -0.13519,-0.05939 -0.26368,-0.143707 -0.37223,-0.257844 -0.3362,-0.347596 -0.41005,-0.848958 -0.22742,-1.26446 l -1.67288,-1.737862 -4.58313,4.429852 c -0.38273,0.373269 -0.39296,0.987439 -0.0228,1.37325 l 6.46505,6.682205 c 0.3726,0.385222 0.98614,0.395443 1.37138,0.02284 l 6.65218,-6.434187 c 0.38585,-0.371954 0.39609,-0.986125 0.0228,-1.371999"
+         id="path1225"
+         style="fill:#ffffff;stroke-width:0.627429" />
+    </g>
+  </g>
+</svg>

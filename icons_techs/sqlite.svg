@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15mm"
+   height="15mm"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg1160"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="sqlite.svg">
+  <defs
+     id="defs1154" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="91.129041"
+     inkscape:cy="123.02595"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1157">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.648297,-32.305079)">
+    <g
+       id="g1119"
+       transform="matrix(0.48382,0,0,0.48382,27.355194,22.216376)">
+      <rect
+         style="fill:#003b57;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         id="rect965"
+         width="31.003265"
+         height="31.003265"
+         x="33.675961"
+         y="20.852182"
+         ry="0"
+         rx="0" />
+      <path
+         d="m 54.863677,25.595883 c -0.606331,-0.540526 -1.339567,-0.323139 -2.06399,0.319618 a 5.1173821,5.1173821 0 0 0 -0.321378,0.314328 c -1.2391,1.314304 -2.388896,3.748439 -2.746114,5.607381 0.139252,0.282014 0.247938,0.642171 0.319616,0.917134 a 7.663735,7.663735 0 0 1 0.09635,0.413034 c 0,0 -0.0111,-0.0417 -0.0564,-0.173916 l -0.02938,-0.08578 a 0.99233737,0.99233737 0 0 0 -0.01932,-0.04701 c -0.08109,-0.188017 -0.304344,-0.584592 -0.403048,-0.757326 -0.08403,0.248526 -0.158639,0.480601 -0.220904,0.690934 0.284363,0.519377 0.457098,1.410072 0.457098,1.410072 0,0 -0.01465,-0.05816 -0.08636,-0.259687 -0.06287,-0.178024 -0.37837,-0.730887 -0.453575,-0.860143 -0.127505,0.472374 -0.178601,0.790815 -0.132791,0.868368 0.08931,0.1504 0.173917,0.410096 0.247939,0.696811 0.168033,0.646281 0.284951,1.433571 0.284951,1.433571 l 0.01,0.131614 a 13.166537,13.166537 0 0 0 0.03291,1.614531 c 0.0558,0.673308 0.160393,1.251437 0.293761,1.561066 l 0.09106,-0.04936 c -0.196232,-0.609857 -0.276138,-1.409484 -0.240886,-2.330732 0.05287,-1.408894 0.377193,-3.108029 0.975886,-4.878845 1.012314,-2.673259 2.416509,-4.818327 3.701437,-5.842981 -1.170948,1.057553 -2.756689,4.482851 -3.231412,5.75074 -0.531129,1.419471 -0.907735,2.751988 -1.134521,4.02869 0.391295,-1.196797 1.657422,-1.710887 1.657422,-1.710887 0,0 0.621017,-0.766139 1.346617,-1.860119 -0.434772,0.09928 -1.148621,0.269089 -1.387744,0.369557 -0.352519,0.147469 -0.4477,0.19801 -0.4477,0.19801 0,0 1.142747,-0.695634 2.122746,-1.01055 1.347792,-2.122746 2.816615,-5.138534 1.337804,-6.458128 m -10.912187,0.31903 a 1.0822293,1.0822293 0 0 0 -1.07812,1.078704 v 9.75769 a 1.0810543,1.0810543 0 0 0 1.07812,1.07753 h 5.533355 a 13.485565,13.485565 0 0 1 -0.03055,-1.590442 c -0.0035,-0.03642 -0.0065,-0.08285 -0.0093,-0.117514 A 15.869173,15.869173 0 0 0 49.16716,34.723731 c -0.07108,-0.276139 -0.16157,-0.527601 -0.216796,-0.621017 -0.06815,-0.115737 -0.05758,-0.182133 -0.05698,-0.253813 0,-0.0705 0.0089,-0.143938 0.02176,-0.226788 a 5.8635447,5.8635447 0 0 1 0.137476,-0.613967 l 0.127484,-0.01643 c -0.01,-0.02065 -0.0082,-0.0382 -0.0182,-0.057 l -0.02409,-0.223844 a 19.270968,19.270968 0 0 1 0.224437,-0.701511 l 0.117514,-0.0111 c -0.0047,-0.0093 -0.0058,-0.02232 -0.01066,-0.03113 l -0.02527,-0.185663 c 0.370142,-1.927095 1.519938,-4.372983 2.820142,-5.7525 0.03878,-0.04055 0.07814,-0.07522 0.116336,-0.113983 z"
+         id="path922"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.587529" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="42.068295"
+         y="47.296383"
+         id="text874-7"><tspan
+           sodipodi:role="line"
+           id="tspan872-5"
+           x="42.068295"
+           y="47.296383"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke-width:0.264583">SQLite</tspan></text>
+    </g>
+  </g>
+</svg>

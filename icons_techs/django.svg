@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15mm"
+   height="15mm"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg1024"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="django.svg">
+  <defs
+     id="defs1018" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="28.346471"
+     inkscape:cy="28.346475"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1298"
+     inkscape:window-height="1040"
+     inkscape:window-x="52"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1021">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-284.53568,84.369049)">
+    <rect
+       style="fill:#092e20;fill-opacity:1;stroke:none;stroke-width:0.128011;stroke-opacity:1"
+       id="rect1414"
+       width="15"
+       height="15"
+       x="284.53568"
+       y="-84.369049"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.38953px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.128011"
+       x="288.16727"
+       y="-71.574821"
+       id="text1418"><tspan
+         sodipodi:role="line"
+         id="tspan1416"
+         x="288.16727"
+         y="-71.574821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38953px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke-width:0.128011">Django</tspan></text>
+    <path
+       d="m 291.80972,-80.912676 h 1.03823 v 4.806423 c -0.53261,0.10107 -0.92366,0.141551 -1.34832,0.141551 -1.26761,0 -1.92828,-0.573085 -1.92828,-1.672164 0,-1.058865 0.70115,-1.746252 1.78673,-1.746252 0.16854,0 0.2966,0.01321 0.45164,0.05371 z m 0,2.419085 a 1.0302875,1.0302875 0 0 0 -0.35057,-0.05397 c -0.52599,0 -0.8292,0.323588 -0.8292,0.890325 0,0.552977 0.28998,0.856192 0.82259,0.856192 0.11456,0 0.20902,-0.0066 0.35718,-0.027 v -1.665816 z m 2.69029,-0.81571 v 2.407183 c 0,0.829205 -0.0606,1.227137 -0.24262,1.570828 -0.16855,0.330464 -0.39106,0.539488 -0.84958,0.768616 l -0.96414,-0.458521 c 0.45852,-0.215639 0.68103,-0.404812 0.82259,-0.694533 0.14843,-0.296597 0.19552,-0.640559 0.19552,-1.543846 v -2.049989 h 1.03823 z m -1.03823,-1.597816 h 1.03823 v 1.065212 h -1.03823 z"
+       id="path1442"
+       style="fill:#ffffff;stroke-width:0.264583" />
+  </g>
+</svg>
