@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 [![Bootstrap](img/icons_techs/bootstrap.svg)](#-my-tech-background)&nbsp;
 [![JQuery](img/icons_techs/jquery.svg)](#-my-tech-background)&nbsp;
 [![Odoo](img/icons_techs/odoo_logo.svg)](#-my-tech-background)&nbsp;
+[![Android](img/icons_techs/android.svg)](#-my-tech-background)&nbsp;
 ### Databases
+[![PostgreSQL](img/icons_techs/postgresql.svg)](#-my-tech-background)&nbsp;
 [![SQLite](img/icons_techs/sqlite.svg)](#-my-tech-background)&nbsp;
 [![MySQL](img/icons_techs/mysql.svg)](#-my-tech-background)&nbsp;
 <!-- [![SQLServer](img/icons_techs/sqlserver.svg)](#-my-tech-background)&nbsp; -->
@@ -55,6 +57,8 @@ Here are some ideas to get you started:
 <!--[![Eclipse](img/icons_techs/eclipse.svg)](#-my-tech-background)-->
 <!--[![Linux](img/icons_techs/linux.svg)](#-my-tech-background)-->
 <!--[![Bash](img/icons_techs/bash.svg)](#-my-tech-background)-->
+### SO
+[![Linux](img/icons_techs/linux.gif)](#-my-tech-background)&nbsp;
 
 <p align="center"> 
   Visitor count<br>
