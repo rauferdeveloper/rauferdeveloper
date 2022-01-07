@@ -1,5 +1,5 @@
 ### Hi there, I'm [Raul](https://github.com/rauferdeveloper)👋
-- 🌱 I’m currently working in [Python](https://www.python.org/) and [Odoo](https://www.odoo.com/?target=_blank)
+- 🌱 I’m currently working in %md <a href="https://google.com" target="_blank">Python</a> and [Odoo](https://www.odoo.com/?target=_blank)
 - 💬 Ask me about anything [here](https://github.com/rauferdeveloper/rauferdeveloper/issues)
 - 🎶 Music
 - 🏁 **2021 goals:**
