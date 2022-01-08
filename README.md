@@ -49,11 +49,13 @@ Here are some ideas to get you started:
 [![SQLite](img/icons_techs/sqlite.svg)](#-my-tech-background)&nbsp;
 [![MySQL](img/icons_techs/mysql.svg)](#-my-tech-background)&nbsp;
 [![Oracle](img/icons_techs/oracle.svg)](#-my-tech-background)&nbsp;
+[![MongoDB](img/icons_techs/mongodb.svg)](#-my-tech-background)&nbsp;
 ### Tools
 [![Docker](img/icons_techs/docker.svg)](#-my-tech-background)&nbsp;
 [![Git](img/icons_techs/git.svg)](#-my-tech-background)&nbsp;
 [![GitHub](img/icons_techs/github.svg)](#-my-tech-background)&nbsp;
 [![Vscode](img/icons_techs/vscode.svg)](#-my-tech-background)&nbsp;
+[![NodeJS](img/icons_techs/nodejs.svg)](#-my-tech-background)&nbsp;
 ### SO
 [![Linux](img/icons_techs/linux.gif)](#-my-tech-background)&nbsp;
 
