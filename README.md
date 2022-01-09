@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 [![JQuery](img/icons_techs/jquery.svg)](#-my-tech-background)&nbsp;
 [![Odoo](img/icons_techs/odoo_logo.svg)](#-my-tech-background)&nbsp;
 [![Android](img/icons_techs/android.svg)](#-my-tech-background)&nbsp;
-
 ### Databases
 [![PostgreSQL](img/icons_techs/postgresql.svg)](#-my-tech-background)&nbsp;
 [![SQLite](img/icons_techs/sqlite.svg)](#-my-tech-background)&nbsp;
 [![MySQL](img/icons_techs/mysql.svg)](#-my-tech-background)&nbsp;
 [![Oracle](img/icons_techs/oracle.svg)](#-my-tech-background)&nbsp;
 [![MongoDB](img/icons_techs/mongodb.svg)](#-my-tech-background)&nbsp;
+[![Redis](img/icons_techs/redis.svg)](#-my-tech-background)&nbsp;
 ### BaaS
 [![Firebase](img/icons_techs/firebase.svg)](#-my-tech-background)&nbsp;
 ### Testing
@@ -62,12 +62,12 @@ Here are some ideas to get you started:
 [![Docker](img/icons_techs/docker.svg)](#-my-tech-background)&nbsp;
 [![Jenkins](img/icons_techs/jenkins.svg)](#-my-tech-background)&nbsp;
 [![Bash](img/icons_techs/bash.svg)](#-my-tech-background)&nbsp;
-
 ### Tools
 [![Git](img/icons_techs/git.svg)](#-my-tech-background)&nbsp;
 [![GitHub](img/icons_techs/github.svg)](#-my-tech-background)&nbsp;
 [![Vscode](img/icons_techs/vscode.svg)](#-my-tech-background)&nbsp;
 [![Postman](img/icons_techs/postman.svg)](#-my-tech-background)&nbsp;
+[![IFTTT](img/icons_techs/ifttt.svg)](#-my-tech-background)&nbsp;
 ### SO
 [![Linux](img/icons_techs/linux.gif)](#-my-tech-background)&nbsp;
 
