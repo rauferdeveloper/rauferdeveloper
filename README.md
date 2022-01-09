@@ -7,7 +7,7 @@
   - [x] [My first Odoo talk](https://www.youtube.com/watch?v=XT1goLEioBs&feature=emb_logo&ab_channel=OdooSpain-Asociaci%C3%B3nEspa%C3%B1oladeOdoo)
 - 🏁 **2022 goals:**
   - [ ] Contributing to open source projects
-  - [ ] Upload first Odoo App
+  - [x] [Upload first Odoo App](https://apps.odoo.com/apps/modules/15.0/reminder_birthday)
   - [ ] [Odoo Certification v15](https://www.odoo.com/es_ES/slides/odoo-certification-v15-108)
 
 <!--
