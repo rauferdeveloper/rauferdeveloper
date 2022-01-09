@@ -32,11 +32,14 @@ Here are some ideas to get you started:
 
 ## 🎒 My tech background
 ### Languages
+### Backend
+[![Java](img/icons_techs/java.svg)](#-my-tech-background)&nbsp;
+[![Python](img/icons_techs/python.svg)](#-my-tech-background)&nbsp;
+[![NodeJS](img/icons_techs/nodejs.svg)](#-my-tech-background)&nbsp;
+### Frontend
 [![HTML](img/icons_techs/html.svg)](#-my-tech-background)&nbsp;
 [![CSS](img/icons_techs/css.svg)](#-my-tech-background)&nbsp;
 [![JavaScript](img/icons_techs/javascript.svg)](#-my-tech-background)&nbsp;
-[![Java](img/icons_techs/java.svg)](#-my-tech-background)&nbsp;
-[![Python](img/icons_techs/python.svg)](#-my-tech-background)&nbsp;
 ### Frameworks
 [![Django](img/icons_techs/django.svg)](#-my-tech-background)&nbsp;
 [![Flask](img/icons_techs/flask.svg)](#-my-tech-background)&nbsp;
@@ -44,18 +47,27 @@ Here are some ideas to get you started:
 [![JQuery](img/icons_techs/jquery.svg)](#-my-tech-background)&nbsp;
 [![Odoo](img/icons_techs/odoo_logo.svg)](#-my-tech-background)&nbsp;
 [![Android](img/icons_techs/android.svg)](#-my-tech-background)&nbsp;
+
 ### Databases
 [![PostgreSQL](img/icons_techs/postgresql.svg)](#-my-tech-background)&nbsp;
 [![SQLite](img/icons_techs/sqlite.svg)](#-my-tech-background)&nbsp;
 [![MySQL](img/icons_techs/mysql.svg)](#-my-tech-background)&nbsp;
 [![Oracle](img/icons_techs/oracle.svg)](#-my-tech-background)&nbsp;
 [![MongoDB](img/icons_techs/mongodb.svg)](#-my-tech-background)&nbsp;
-### Tools
+### BaaS
+[![Firebase](img/icons_techs/firebase.svg)](#-my-tech-background)&nbsp;
+### Testing
+[![Selenium](img/icons_techs/selenium.svg)](#-my-tech-background)&nbsp;
+### Devops
 [![Docker](img/icons_techs/docker.svg)](#-my-tech-background)&nbsp;
+[![Jenkins](img/icons_techs/jenkins.svg)](#-my-tech-background)&nbsp;
+[![Bash](img/icons_techs/bash.svg)](#-my-tech-background)&nbsp;
+
+### Tools
 [![Git](img/icons_techs/git.svg)](#-my-tech-background)&nbsp;
 [![GitHub](img/icons_techs/github.svg)](#-my-tech-background)&nbsp;
 [![Vscode](img/icons_techs/vscode.svg)](#-my-tech-background)&nbsp;
-[![NodeJS](img/icons_techs/nodejs.svg)](#-my-tech-background)&nbsp;
+[![Postman](img/icons_techs/postman.svg)](#-my-tech-background)&nbsp;
 ### SO
 [![Linux](img/icons_techs/linux.gif)](#-my-tech-background)&nbsp;
 
