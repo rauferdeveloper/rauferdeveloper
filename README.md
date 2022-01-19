@@ -1,4 +1,4 @@
-### Hi there, I'm [Raul](https://github.com/rauferdeveloper)👋
+### Hi there, I'm [Raul](https://github.com/rauferdeveloper) 👋 [![Github](https://img.shields.io/github/followers/rauferdeveloper?label=Follow&style=social)](https://github.com/rauferdeveloper)
 - 🌱 I’m currently working in [Python](https://www.python.org/) and [Odoo](https://www.odoo.com/)
 - 💬 Ask me about anything [here](https://github.com/rauferdeveloper/rauferdeveloper/issues)
 - 🎶 Music
