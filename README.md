@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rauferdeveloper&show_icons=true&include_all_commits=true&theme=radical" alt="Raul's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rauferdeveloper&show_icons=true&include_all_commits=false&theme=radical" alt="Raul's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauferdeveloper&layout=compact&theme=radical" />
