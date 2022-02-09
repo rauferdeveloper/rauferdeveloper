@@ -79,6 +79,9 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/rauferdeveloper/count.svg" />
 </p>
+
+[![OCA](img/icons_techs/OCA.png)](#-my-tech-background)&nbsp;
+
 <!-- Frameworks-->
 <!-- [![Spring](img/icons_techs/spring.svg)](#-my-tech-background)&nbsp; -->
 <!-- db-->
