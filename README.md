@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 [![Java](img/icons_techs/java.svg)](#-my-tech-background)&nbsp;
 [![Python](img/icons_techs/python.svg)](#-my-tech-background)&nbsp;
 [![NodeJS](img/icons_techs/nodejs.svg)](#-my-tech-background)&nbsp;
+[![Dart](img/icons_techs/dart.svg)](#-my-tech-background)&nbsp;
+
 ### Frontend
 [![HTML](img/icons_techs/html.svg)](#-my-tech-background)&nbsp;
 [![CSS](img/icons_techs/css.svg)](#-my-tech-background)&nbsp;
@@ -48,6 +50,7 @@ Here are some ideas to get you started:
 [![JQuery](img/icons_techs/jquery.svg)](#-my-tech-background)&nbsp;
 [![Odoo](img/icons_techs/odoo_logo.svg)](#-my-tech-background)&nbsp;
 [![Android](img/icons_techs/android.svg)](#-my-tech-background)&nbsp;
+[![Flutter](img/icons_techs/flutter.svg)](#-my-tech-background)&nbsp;
 ### Databases
 [![PostgreSQL](img/icons_techs/postgresql.svg)](#-my-tech-background)&nbsp;
 [![SQLite](img/icons_techs/sqlite.svg)](#-my-tech-background)&nbsp;
