@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 </p>
 
 [![OCA](img/icons_techs/OCA.png)](#-my-tech-background)&nbsp;
+[![ODOOCERT15F](img/icons_techs/ODOO15CERT.png)](#-my-tech-background)&nbsp;
 
 <!-- Frameworks-->
 <!-- [![Spring](img/icons_techs/spring.svg)](#-my-tech-background)&nbsp; -->
