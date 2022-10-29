@@ -8,7 +8,7 @@
 - 🏁 **2022 goals:**
   - [ ] Contributing to open source projects
   - [x] [Upload first Odoo App](https://apps.odoo.com/apps/modules/15.0/reminder_birthday)
-  - [ ] [Odoo Certification v15](https://www.odoo.com/es_ES/slides/odoo-certification-v15-108)
+  - [x] [Odoo Certification v15](https://www.odoo.com/es_ES/slides/odoo-certification-v15-108)
 
 <!--
 **rauferdeveloper/rauferdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
